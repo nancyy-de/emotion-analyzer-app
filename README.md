@@ -27,6 +27,12 @@ npm start
 ---
 
 ## Features
+cd path/to/emotion-analyzer-frontend
+git init
+git remote add origin https://github.com/nancyy-de/emotion-analyzer-frontend.git
+git add .
+git commit -m "Frontend ready for deployment"
+git push -u origin main
 - Type a short reflection
 - View mock emotion result
 - Clean, responsive UI
